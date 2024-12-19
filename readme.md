@@ -1,6 +1,5 @@
 # triple-handle-controller plugin
 
-TODO: Add Author/Citations.
 
 ## Overview
 
